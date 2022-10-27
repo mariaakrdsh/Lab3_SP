@@ -1,0 +1,81 @@
+let  -  KEYWORD
+" "  -  SPACE
+Height  -  IDENTIFIER
+" "  -  SPACE
+=  -  OPERATOR
+" "  -  SPACE
+40  -  NUM
+"\r"  -  ESCAPE CHAR
+"\n"  -  ESCAPE CHAR
+let  -  KEYWORD
+" "  -  SPACE
+hasHeader  -  IDENTIFIER
+" "  -  SPACE
+=  -  OPERATOR
+" "  -  SPACE
+true  -  KEYWORD
+"\r"  -  ESCAPE CHAR
+"\n"  -  ESCAPE CHAR
+var  -  KEYWORD
+" "  -  SPACE
+rowHeight  -  IDENTIFIER
+" "  -  SPACE
+=  -  OPERATOR
+" "  -  SPACE
+Height  -  IDENTIFIER
+"\r"  -  ESCAPE CHAR
+"\n"  -  ESCAPE CHAR
+if  -  KEYWORD
+" "  -  SPACE
+hasHeader  -  IDENTIFIER
+" "  -  SPACE
+{  -  BRACKET
+"\r"  -  ESCAPE CHAR
+"\n"  -  ESCAPE CHAR
+" "  -  SPACE
+" "  -  SPACE
+" "  -  SPACE
+" "  -  SPACE
+rowHeight  -  IDENTIFIER
+" "  -  SPACE
+=  -  OPERATOR
+" "  -  SPACE
+rowHeight  -  IDENTIFIER
+" "  -  SPACE
++  -  OPERATOR
+" "  -  SPACE
+50  -  NUM
+"\r"  -  ESCAPE CHAR
+"\n"  -  ESCAPE CHAR
+}  -  BRACKET
+" "  -  SPACE
+else  -  KEYWORD
+" "  -  SPACE
+{  -  BRACKET
+"\r"  -  ESCAPE CHAR
+"\n"  -  ESCAPE CHAR
+" "  -  SPACE
+" "  -  SPACE
+" "  -  SPACE
+" "  -  SPACE
+rowHeight  -  IDENTIFIER
+" "  -  SPACE
+=  -  OPERATOR
+" "  -  SPACE
+rowHeight  -  IDENTIFIER
+" "  -  SPACE
++  -  OPERATOR
+" "  -  SPACE
+20  -  NUM
+"\r"  -  ESCAPE CHAR
+"\n"  -  ESCAPE CHAR
+}  -  BRACKET
+"\r"  -  ESCAPE CHAR
+"\n"  -  ESCAPE CHAR
+# rowHeight рівно 90  -  COMMENT
+"\r"  -  ESCAPE CHAR
+"\n"  -  ESCAPE CHAR
+print  -  IDENTIFIER
+(  -  BRACKET
+rowHeight  -  IDENTIFIER
+)  -  BRACKET

@@ -1,0 +1,10 @@
+let Height = 40
+let hasHeader = true
+var rowHeight = Height
+if hasHeader {
+    rowHeight = rowHeight + 50
+} else {
+    rowHeight = rowHeight + 20
+}
+# rowHeight рівно 90
+print(rowHeight)
